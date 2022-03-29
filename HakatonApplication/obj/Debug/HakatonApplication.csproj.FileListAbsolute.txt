@@ -1,0 +1,14 @@
+C:\Users\Vladimir\source\repos\HakatonApplication\HakatonApplication\bin\Debug\HakatonApplication.exe.config
+C:\Users\Vladimir\source\repos\HakatonApplication\HakatonApplication\bin\Debug\HakatonApplication.exe
+C:\Users\Vladimir\source\repos\HakatonApplication\HakatonApplication\bin\Debug\HakatonApplication.pdb
+C:\Users\Vladimir\source\repos\HakatonApplication\HakatonApplication\obj\Debug\HakatonApplication.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\HakatonApplication\HakatonApplication\obj\Debug\HakatonApplication.Form1.resources
+C:\Users\Vladimir\source\repos\HakatonApplication\HakatonApplication\obj\Debug\HakatonApplication.Properties.Resources.resources
+C:\Users\Vladimir\source\repos\HakatonApplication\HakatonApplication\obj\Debug\HakatonApplication.csproj.GenerateResource.cache
+C:\Users\Vladimir\source\repos\HakatonApplication\HakatonApplication\obj\Debug\HakatonApplication.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\HakatonApplication\HakatonApplication\obj\Debug\HakatonApplication.exe
+C:\Users\Vladimir\source\repos\HakatonApplication\HakatonApplication\obj\Debug\HakatonApplication.pdb
+C:\Users\Vladimir\source\repos\HakatonApplication\HakatonApplication\bin\Debug\NLog.config
+C:\Users\Vladimir\source\repos\HakatonApplication\HakatonApplication\bin\Debug\NLog.dll
+C:\Users\Vladimir\source\repos\HakatonApplication\HakatonApplication\bin\Debug\NLog.xml
+C:\Users\Vladimir\source\repos\HakatonApplication\HakatonApplication\obj\Debug\HakatonApplication.csproj.CopyComplete
